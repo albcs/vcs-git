@@ -4,3 +4,4 @@ Change in Master branch, change in Feature1 branch - merge conflict -
 Change from GitHub interface - pull without conflicts -
 Change from GitHub interface - pull conflict -
 Change in Master branch - tag1 -
+Change in Master branch - tag2 -
