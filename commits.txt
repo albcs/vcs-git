@@ -5,3 +5,7 @@ Change from GitHub interface - pull without conflicts -
 Change from GitHub interface - pull conflict -
 Change in Feature1 branch - rebase -
 Change in Feature1 branch - stash -
+Change in Master branch - tag1 -
+Change in Master branch - tag2 -
+Change in Master branch - tag3 -
+Change in Master branch - cherry-pic -
