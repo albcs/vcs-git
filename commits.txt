@@ -1,1 +1,2 @@
 First change in IntelliJ Idea - commit -
+Change in Feature1 branch - merge without conflicts -
