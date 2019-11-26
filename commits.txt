@@ -6,3 +6,4 @@ Change from GitHub interface - pull conflict -
 Change in Master branch - tag1 -
 Change in Master branch - tag2 -
 Change in Master branch - tag3 -
+Change in Master branch - cherry-pic -
