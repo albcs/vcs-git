@@ -2,4 +2,4 @@ First change in IntelliJ Idea - commit -
 Change in Feature1 branch - merge without conflicts -
 Change in Master branch, change in Feature1 branch - merge conflict -
 Change from GitHub interface - pull without conflicts -
-Change from IntelliJ IDEA - pull conflict -
+Change from GitHub interface - pull conflict -
